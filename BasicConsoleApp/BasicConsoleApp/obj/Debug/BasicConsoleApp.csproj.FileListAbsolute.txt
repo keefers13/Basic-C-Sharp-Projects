@@ -1,0 +1,6 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BasicConsoleApp\BasicConsoleApp\bin\Debug\BasicConsoleApp.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BasicConsoleApp\BasicConsoleApp\bin\Debug\BasicConsoleApp.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BasicConsoleApp\BasicConsoleApp\bin\Debug\BasicConsoleApp.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BasicConsoleApp\BasicConsoleApp\obj\Debug\BasicConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BasicConsoleApp\BasicConsoleApp\obj\Debug\BasicConsoleApp.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BasicConsoleApp\BasicConsoleApp\obj\Debug\BasicConsoleApp.pdb
