@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicApp\BooleanLogicApp\bin\Debug\BooleanLogicApp.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicApp\BooleanLogicApp\bin\Debug\BooleanLogicApp.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicApp\BooleanLogicApp\bin\Debug\BooleanLogicApp.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.pdb
