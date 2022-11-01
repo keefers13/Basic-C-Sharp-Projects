@@ -8,7 +8,7 @@ namespace PriceQuoteApp
         static void Main()
         {
             // Price Quoting Application
-            // Retreiving income data from user 1, and converting it to the correct values
+            // Retreiving date from the user
             Console.WriteLine("Wlecome to Package Express. Please follow the instructions below.");
             Console.WriteLine("Please enter the weight of your package:");
             string packageEntry = Console.ReadLine();
@@ -23,7 +23,7 @@ namespace PriceQuoteApp
             Console.WriteLine("Please enter the length of your package:");
             string packageLgth = Console.ReadLine();
             int packageLength = Convert.ToInt32(packageLgth);
-
+            // Calculating final price and displaying it to the user
             double finalPrice = (packageLength * packageHeight * packageWidth) / packageWeight;
 
             Console.WriteLine("Your estimated total for shipping this package is: $" + finalPrice);
