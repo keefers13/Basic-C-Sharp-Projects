@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\PriceQuoteApp.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\PriceQuoteApp.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PriceQuoteApp\PriceQuoteApp\bin\Debug\PriceQuoteApp.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PriceQuoteApp\PriceQuoteApp\obj\Debug\PriceQuoteApp.pdb
