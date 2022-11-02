@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\while_and_do_while_statements\while_and_do_while_statements\bin\Debug\while_and_do_while_statements.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\while_and_do_while_statements\while_and_do_while_statements\bin\Debug\while_and_do_while_statements.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\while_and_do_while_statements\while_and_do_while_statements\bin\Debug\while_and_do_while_statements.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\while_and_do_while_statements\while_and_do_while_statements\obj\Debug\while_and_do_while_statements.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\while_and_do_while_statements\while_and_do_while_statements\obj\Debug\while_and_do_while_statements.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\while_and_do_while_statements\while_and_do_while_statements\obj\Debug\while_and_do_while_statements.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\while_and_do_while_statements\while_and_do_while_statements\obj\Debug\while_and_do_while_statements.pdb
