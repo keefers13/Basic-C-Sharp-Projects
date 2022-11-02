@@ -9,7 +9,7 @@ namespace while_and_do_while_statements
             Console.WriteLine("Guess my favorite number between 1-13");
             int favNum = Convert.ToInt32(Console.ReadLine());
             bool guessed = false;
-
+            // while statement keeping "guessed" as false until they guess the correct number
             while (!guessed)
             {
                 switch (favNum)
@@ -36,6 +36,8 @@ namespace while_and_do_while_statements
             int number = Convert.ToInt32(Console.ReadLine());
             int day = number;
             bool isGuessed = false;
+            // do statement that ensures we get a loop at the beginning, while
+            // still keeping isGuessed as false until the correct guess occurs. 
             do
             {
                 switch (day)
@@ -77,6 +79,7 @@ namespace while_and_do_while_statements
                         break;
                 }
             }
+            // while statement keeping "isGuessed" as false until they guess the correct number
             while (!isGuessed);
 
             Console.ReadLine();
