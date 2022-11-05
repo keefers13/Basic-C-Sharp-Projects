@@ -11,9 +11,8 @@ namespace CallingMethods
         static void Main(string[] args)
         {
 
-            //Maths math = new Maths();
-            //math
-
+            //asking user for a number, and then calling the methods
+            //from the Maths class and using that number. 
             Console.WriteLine("Select a number:");
             string Entry = Console.ReadLine();
             int userEntry = Convert.ToInt32(Entry);

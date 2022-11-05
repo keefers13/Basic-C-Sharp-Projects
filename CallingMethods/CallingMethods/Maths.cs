@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CallingMethods
 {
     public class Maths
-    {
+    {   // creating three methods that have the userEntry int passed in
         public static void fiveMethod(int userEntry)
         {
             int plusFive = userEntry + 5;
