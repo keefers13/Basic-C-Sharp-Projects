@@ -8,6 +8,7 @@ namespace ClassInstantiation
 {
     public class Maths
     {
+        //creating a void method that doesn't return anything
         public void myMethod(int firstEntry,int  secondEntry)
         {
             int answer = firstEntry + 5;

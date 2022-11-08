@@ -10,8 +10,10 @@ namespace ClassInstantiation
     {
         public static void Main(string[] args)
         {
+            //instantiating the class
             Maths maths = new Maths();
 
+            //asking for user input
             Console.WriteLine("Select a number:");
             string Entry = Console.ReadLine();
             int firstEntry = Convert.ToInt32(Entry);
@@ -19,6 +21,7 @@ namespace ClassInstantiation
             string Entry2 = Console.ReadLine();
             int secondEntry = Convert.ToInt32(Entry2);
 
+            //calling the method "myMethod()" from the maths class
             maths.myMethod(firstEntry, secondEntry);
             maths.myMethod(firstEntry: 5, secondEntry: 6);
             Console.ReadLine();
