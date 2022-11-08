@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.pdb
