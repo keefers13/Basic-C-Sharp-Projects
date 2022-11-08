@@ -8,25 +8,22 @@ namespace CallingMethods
 {
     public class Maths
     {   // creating three methods that have the userEntry int passed in
-        public static void fiveMethod(int userEntry)
+        public static int fiveMethod(int userEntry)
         {
             int plusFive = userEntry + 5;
-            Console.WriteLine("Your number plus 5 is " + plusFive);
-            Console.ReadLine();
+            return plusFive;
         }
 
-        public static void sixMethod(int userEntry)
+        public static int sixMethod(int userEntry)
         {
             int plusSix = userEntry + 6;
-            Console.WriteLine("Your number plus 6 is " + plusSix);
-            Console.ReadLine();
+            return plusSix;
         }
 
-        public static void sevenMethod(int userEntry)
+        public static int sevenMethod(int userEntry)
         {
             int plusSeven = userEntry + 7;
-            Console.WriteLine("Your number plus 7 is " + plusSeven);
-            Console.ReadLine();
+            return plusSeven;
         }
 
 
