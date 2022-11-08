@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ClassInstantiation\ClassInstantiation\obj\Debug\ClassInstantiation.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ClassInstantiation\ClassInstantiation\obj\Debug\ClassInstantiation.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ClassInstantiation\ClassInstantiation\bin\Debug\ClassInstantiation.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ClassInstantiation\ClassInstantiation\bin\Debug\ClassInstantiation.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ClassInstantiation\ClassInstantiation\bin\Debug\ClassInstantiation.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ClassInstantiation\ClassInstantiation\obj\Debug\ClassInstantiation.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ClassInstantiation\ClassInstantiation\obj\Debug\ClassInstantiation.pdb
