@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.pdb
