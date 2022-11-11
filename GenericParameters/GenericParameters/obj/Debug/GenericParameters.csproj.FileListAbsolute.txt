@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericParameters\GenericParameters\bin\Debug\GenericParameters.exe.config
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericParameters\GenericParameters\bin\Debug\GenericParameters.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericParameters\GenericParameters\bin\Debug\GenericParameters.pdb
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericParameters\GenericParameters\obj\Debug\GenericParameters.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericParameters\GenericParameters\obj\Debug\GenericParameters.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericParameters\GenericParameters\obj\Debug\GenericParameters.exe
+C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\GenericParameters\GenericParameters\obj\Debug\GenericParameters.pdb
