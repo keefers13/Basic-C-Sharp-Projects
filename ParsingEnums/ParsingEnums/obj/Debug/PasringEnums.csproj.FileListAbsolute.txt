@@ -1,0 +1,7 @@
+C:\Users\keith\OneDrive\Desktop\Basic_C#_Programs\PasringEnums\PasringEnums\bin\Debug\PasringEnums.exe.config
+C:\Users\keith\OneDrive\Desktop\Basic_C#_Programs\PasringEnums\PasringEnums\bin\Debug\PasringEnums.exe
+C:\Users\keith\OneDrive\Desktop\Basic_C#_Programs\PasringEnums\PasringEnums\bin\Debug\PasringEnums.pdb
+C:\Users\keith\OneDrive\Desktop\Basic_C#_Programs\PasringEnums\PasringEnums\obj\Debug\PasringEnums.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Desktop\Basic_C#_Programs\PasringEnums\PasringEnums\obj\Debug\PasringEnums.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Desktop\Basic_C#_Programs\PasringEnums\PasringEnums\obj\Debug\PasringEnums.exe
+C:\Users\keith\OneDrive\Desktop\Basic_C#_Programs\PasringEnums\PasringEnums\obj\Debug\PasringEnums.pdb
