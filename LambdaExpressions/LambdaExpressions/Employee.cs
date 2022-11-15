@@ -11,11 +11,11 @@ namespace LambdaExpressions
         public string firstName { get; set; }
         public string lastName { get; set; }
         public int Id { get; set; }
-        public Employee(string firstName, string lastName, int Id)
-        {
-            firstName = firstName;
-            lastName = lastName;
-            Id = Id;
-        }
+        //public Employee(string firstName, string lastName, int Id)
+        //{
+        //    firstName = firstName;
+        //    lastName = lastName;
+        //    Id = Id;
+        //}
     }
 }
