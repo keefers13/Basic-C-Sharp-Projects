@@ -16,6 +16,13 @@ namespace Blackjack
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"C:\Users\keith\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Blackjack\Blackjack\log.txt", true))
+            {
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
+            }
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             Deck.Cards.RemoveAt(0);
         }
