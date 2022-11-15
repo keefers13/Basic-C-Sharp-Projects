@@ -29,8 +29,17 @@ namespace Blackjack
                 //making sure the game continues while the player plays and has money
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    //making sure most things happen inside the Play() method
-                    game.Play();
+                    try
+                    {
+                        //making sure most things happen inside the Play() method
+                        game.Play();
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("an error occured. Please contact your System Administrator.");
+                        return;
+                    }
+                    
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
