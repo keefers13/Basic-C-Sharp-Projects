@@ -7,7 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using CarInsurance.Models;
-using static CarInsurance.ViewModels.insureeVM;
+using CarInsurance.ViewModels;
 
 namespace CarInsurance.Controllers
 {
@@ -89,7 +89,7 @@ namespace CarInsurance.Controllers
                 string carModel = insuree.CarModel.ToLower();
                 if (carMake == "porsche" && carModel == "911 carrera")
                 {
-                    quote += 25;
+                    quote += 50;
                 }
                 else if (carMake == "porsche")
                 {
@@ -194,10 +194,10 @@ namespace CarInsurance.Controllers
             using (InsuranceEntities db = new InsuranceEntities())
             {
                 var insurees = db.Insurees;
-                var insureeVms = new List<insureeVm>();
+                var insureeVms = new List<insureeVM>();
                 foreach (var insuree in insurees)
                 {
-                    var insureeVm = new insureeVm();
+                    var insureeVm = new insureeVM();
                     insureeVm.FirstName = insuree.FirstName;
                     insureeVm.LastName = insuree.LastName;
                     insureeVm.EmailAddress = insuree.EmailAddress;
